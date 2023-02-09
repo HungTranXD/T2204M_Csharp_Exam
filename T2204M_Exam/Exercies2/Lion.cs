@@ -27,9 +27,5 @@ namespace T2204M_Exam.Exercies2
             Name = name;
         }
 
-        
-
-        
-
     }
 }
