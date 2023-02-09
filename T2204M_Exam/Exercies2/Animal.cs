@@ -24,6 +24,6 @@ namespace T2204M_Exam.Exercies2
         //Other methods
         public abstract void Show();
 
-        public abstract void SetMe(double weight, string name);
+        public abstract void SetMe(double weight, string name); //Giong construcor nhi ?
     }
 }
